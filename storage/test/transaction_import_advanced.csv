@@ -1,0 +1,4 @@
+import_id,date,ticker,type,quantity,price_per_share
+1,13/07/2020 09:21:46,NFLX,BUY,10,500
+2,13/07/2020 09:21:46,NFLX,BUY,5,520
+3,13/07/2020 09:21:46,NFLX,SELL,-12,550
